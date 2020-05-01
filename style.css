@@ -1,0 +1,28 @@
+body{
+    background:url(images/bg.jpg);
+    background-attachment: fixed;
+    color: white;
+}
+.container{
+    text-align: center;
+}
+.body{
+    background-color: red;
+    color: white;
+}
+marquee{
+    font-size: 18px;
+    background: none;
+}
+.faq{
+    text-align: center;
+    background-color: white;
+    color: blue;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+}
+.faqcontent{
+    text-align: justify;
+}
